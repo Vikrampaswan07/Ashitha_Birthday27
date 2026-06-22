@@ -166,7 +166,7 @@ with tab3:
         st.image("pic4.jpeg", caption="Created by Gemini! ✨", use_container_width=True)
 
     with colC:
-        st.image("pic5.jpeg", caption="Created by Gemini! ✨", use_container_width=True)
+        st.image("pic5.jpeg", caption="13th April, 2025 ✨", use_container_width=True)
 
     with colC:
         st.image("pic6.jpeg", caption="Created by Gemini! ✨", use_container_width=True)
